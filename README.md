@@ -2,6 +2,18 @@
 
 Hey there, fellow number explorer! 🌌 Welcome to PrimeZ, the rad CLI tool that's all about diving into the abyss of numbers and fetching out what's prime and what's not! Designed for the curious souls of Gen Z (and beyond!), PrimeZ is here to spice up your prime-finding quests and factorization adventures.
 
+```bash
+
+
+        ____       _                ______ 
+        |  _ \ _ __(_)_ __ ___   ___|__  / |
+        | |_) | '__| | '_ ` _ \ / _ \ / /| |
+        |  __/| |  | | | | | | |  __// /_|_|
+        |_|   |_|  |_|_| |_| |_|\___/____(_)
+        
+        
+```
+
 ## How to Speak PrimeZ 🗣️👾
 
 Unleashing the magic of PrimeZ is super chill. Just tell PrimeZ what numbers you're curious about, and let it reveal their secrets!
