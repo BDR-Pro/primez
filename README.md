@@ -44,7 +44,7 @@ Stoked about PrimeZ and got some cool ideas? Jump in and contribute! Whether it'
 
 ```sh
 git clone github.com/bdr-pro/primez
-cd primez/prime
+cd primez
 ./setup_primez.ps1
 ```
 
@@ -52,7 +52,7 @@ cd primez/prime
 
 ```sh
 git clone github.com/bdr-pro/primez
-cd primez/prime
+cd primez
 chmod +x setup_primez.sh
 chmod +x prime_linux
 ./setup_primez.sh
