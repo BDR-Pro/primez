@@ -55,7 +55,7 @@ Stoked about PrimeZ and got some cool ideas? Jump in and contribute! Whether it'
 @Windows: You can install PrimeZ by running the following command in your command prompt:
 
 ```sh
-git clone github.com/bdr-pro/primez
+git clone https://github.com/BDR-Pro/primez.git
 cd primez
 ./setup_primez.ps1
 ```
@@ -63,7 +63,7 @@ cd primez
 @Linux: You can install PrimeZ by running the following command in your terminal:
 
 ```sh
-git clone github.com/bdr-pro/primez
+git clone https://github.com/BDR-Pro/primez.git
 cd primez
 chmod +x setup_primez.sh
 chmod +x prime_linux
